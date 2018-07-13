@@ -1,6 +1,7 @@
-# exprice
+# My-vue-apps
 
 > A Vue.js project
+> 一个自己用vue做的app demo
 
 ## Build Setup
 
